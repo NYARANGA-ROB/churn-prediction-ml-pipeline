@@ -150,9 +150,3 @@ Enable debug logging: `export LOG_LEVEL=DEBUG`
 - `docs/FEATURE_STORE_README.md` — Feature store details
 - `docs/TRANSFORMATION_STORAGE.md` — Transformation details
 
-## License
-
-Educational purposes only. Dataset license follows IBM terms.
-
-## References
-- [DVC Documentation](https://dvc.org/doc) · [scikit-learn](https://scikit-learn.org/stable/) · [Pandas](https://pandas.pydata.org/docs/) · [SQLite](https://www.sqlite.org/docs.html)
