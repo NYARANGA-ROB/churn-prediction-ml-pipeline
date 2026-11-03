@@ -7,7 +7,6 @@ import subprocess
 import sys
 from pathlib import Path
 
-
 def run_command(cmd, check=True):
     """Run a command and handle errors"""
     print(f"Running: {cmd}")
